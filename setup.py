@@ -8,7 +8,7 @@ setup(
     description='EDSA example python package',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='https://github.com/MphoKomape/MphoEDSA.git',
+    url='https://github.com/MphoKomape/MphoEDSA/',
     author='MphoKomape',
     author_email='mphokomape85@gmail.com'
     )
